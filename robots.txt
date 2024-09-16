@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erieurcof.github.io/sitemap.html.gz
+Sitemap: https://erieurcof.github.io/app/sitemap.html.gz
+Sitemap: https://erieurcof.github.io/assets/sitemap.html.gz
+Sitemap: https://erieurcof.github.io/css/sitemap.html.gz
+Sitemap: https://erieurcof.github.io/includes/sitemap.html.gz
+Sitemap: https://erieurcof.github.io/item/sitemap.html.gz
+Sitemap: https://erieurcof.github.io/src/sitemap.html.gz
